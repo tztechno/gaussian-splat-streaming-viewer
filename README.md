@@ -1,9 +1,5 @@
 # Gaussian Splat Streaming Viewer
 
-I'd be happy to translate that into English\!
-
-# Gaussian Splat Streaming Viewer
-
 A driver's-eye Gaussian Splatting viewer that automatically streams and loads large-scale scenes.
 
 ## ✨ Features
