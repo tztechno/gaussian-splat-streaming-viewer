@@ -157,7 +157,7 @@ MIT
 
 ## 👤 Author
 
-stpeteishii - [@IshiiSetpete](https://twitter.com/stpeteishii)
+stpeteishii - [@IshiiStpete](https://twitter.com/@IshiiStpete)
 
 ## 🙏 Acknowledgements
 
