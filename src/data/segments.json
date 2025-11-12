@@ -1,0 +1,50 @@
+{
+    "segments": [
+        {
+            "id": 0,
+            "start": 0,
+            "end": 100,
+            "file": "segment_0.splat",
+            "name": "交差点A",
+            "description": "スタート地点の大きな交差点"
+        },
+        {
+            "id": 1,
+            "start": 100,
+            "end": 200,
+            "file": "segment_1.splat",
+            "name": "商店街通り",
+            "description": "両側に店舗が並ぶ賑やかな通り"
+        },
+        {
+            "id": 2,
+            "start": 200,
+            "end": 300,
+            "file": "segment_2.splat",
+            "name": "川を渡る橋",
+            "description": "景色の良い橋の上"
+        },
+        {
+            "id": 3,
+            "start": 300,
+            "end": 400,
+            "file": "segment_3.splat",
+            "name": "交差点B",
+            "description": "大きな交差点と周辺の建物"
+        },
+        {
+            "id": 4,
+            "start": 400,
+            "end": 500,
+            "file": "segment_4.splat",
+            "name": "住宅街",
+            "description": "静かな住宅街エリア"
+        }
+    ],
+    "metadata": {
+        "totalDistance": 500,
+        "unit": "meters",
+        "captureDate": "2024-11-12",
+        "cameraHeight": 2.0
+    }
+}

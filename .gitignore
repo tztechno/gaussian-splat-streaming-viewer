@@ -1,0 +1,33 @@
+cat > .gitignore << 'EOF'
+# 依存関係
+node_modules/
+
+# ビルド成果物
+dist/
+build/
+
+# ログファイル
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# エディタ設定
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS関連
+.DS_Store
+Thumbs.db
+
+# 環境変数
+.env
+.env.local
+.env.*.local
+
+# Vite
+.vite/
+EOF
